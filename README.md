@@ -1,2 +1,1 @@
-cout << "i am very stupid";
-return 666;
+assembler or assembly i dont remeber
